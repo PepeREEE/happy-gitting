@@ -1,5 +1,5 @@
 # happy-gitting
-##Try out git and all that
+## Try out git and all that
 
 >This is a new paragraph right here
 
